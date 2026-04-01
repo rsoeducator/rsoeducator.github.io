@@ -1,0 +1,269 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>RSO Tools & Supplies</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #0b0b0b;
+      color: #f5f5f5;
+      line-height: 1.6;
+    }
+    header {
+      padding: 1.5rem 1rem 0.75rem;
+      border-bottom: 1px solid #222;
+      background: #050505;
+    }
+    .site-title {
+      font-size: 1.4rem;
+      font-weight: 600;
+      margin: 0 0 0.25rem;
+    }
+    nav {
+      font-size: 0.9rem;
+      margin-bottom: 0.5rem;
+    }
+    nav a {
+      color: #bbbbbb;
+      text-decoration: none;
+      margin-right: 1rem;
+    }
+    nav a:hover {
+      color: #ffffff;
+    }
+    .page-title {
+      font-size: 1.6rem;
+      font-weight: 600;
+      margin: 0.75rem 0 0.25rem;
+    }
+    .page-subtitle {
+      font-size: 0.95rem;
+      color: #b0b0b0;
+      margin: 0 0 0.75rem;
+    }
+    main {
+      padding: 0.75rem 0 2.5rem;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
+    .disclaimer {
+      font-size: 0.8rem;
+      color: #9a9a9a;
+      margin-bottom: 1.25rem;
+      border-left: 3px solid #333;
+      padding-left: 0.75rem;
+    }
+    .tool-card {
+      background: #111111;
+      border-radius: 14px;
+      margin-bottom: 1.25rem;
+      overflow: hidden;
+      border: 1px solid #1f1f1f;
+    }
+    .tool-image-wrapper img {
+      width: 100%;
+      display: block;
+    }
+    .tool-body {
+      padding: 0.9rem 0.9rem 1rem;
+    }
+    .tool-title {
+      font-size: 1rem;
+      font-weight: 600;
+      margin: 0 0 0.25rem;
+    }
+    .tool-meta {
+      font-size: 0.8rem;
+      color: #9a9a9a;
+      margin-bottom: 0.4rem;
+    }
+    .tool-why-label {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #888888;
+      margin-top: 0.4rem;
+      margin-bottom: 0.1rem;
+    }
+    .tool-why-text {
+      font-size: 0.9rem;
+      color: #dcdcdc;
+      margin: 0 0 0.6rem;
+    }
+    .tool-cta a {
+      display: inline-block;
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: #ffffff;
+      background: #1f7a3a;
+      padding: 0.45rem 0.9rem;
+      border-radius: 999px;
+      text-decoration: none;
+    }
+    .tool-cta a:hover {
+      background: #249245;
+    }
+    .back-button {
+      display: inline-block;
+      margin: 1.5rem 0 0;
+      color: #ffffff;
+      background: #1f7a3a;
+      padding: 0.45rem 0.9rem;
+      border-radius: 999px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+    .back-button:hover {
+      background: #249245;
+    }
+    footer {
+      font-size: 0.78rem;
+      color: #777777;
+      padding: 0 1rem 1.5rem;
+      text-align: center;
+      border-top: 1px solid #151515;
+      margin-top: 1.5rem;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <div class="site-title">RSO Beginner Hub</div>
+
+      <!-- CLEAN NAVIGATION (NO TOOLS LINK HERE) -->
+      <nav>
+        <a href="https://rsoeducator.github.io/Beginner-roadmap.html">Beginner Roadmap</a>
+        <a href="https://rsoeducator.github.io/rso-troubleshooter/">Troubleshooter App</a>
+      </nav>
+
+      <h1 class="page-title">RSO Tools &amp; Supplies</h1>
+      <p class="page-subtitle">These are the exact tools I use to keep RSO clean, consistent, and beginner‑friendly.</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+
+      <p class="disclaimer">
+        Some of the links on this page are affiliate links. That means if you choose to buy through them,
+        I may earn a small commission at no extra cost to you. I only recommend tools I actually use in my own RSO workflow.
+      </p>
+
+      <!-- Capsules -->
+      <section class="tool-card">
+        <div class="tool-image-wrapper">
+          <img src="https://m.media-amazon.com/images/I/71kcow-9QjL._AC_SL1500_.jpg" alt="Capsuline Size 0 Capsules">
+        </div>
+        <div class="tool-body">
+          <h2 class="tool-title">Capsuline Size 0 Empty Gelatin Capsules</h2>
+          <div class="tool-meta">Clear • Size 0 • 1000 count</div>
+          <div class="tool-why-label">Why I use this</div>
+          <p class="tool-why-text">Clean, consistent dosing without the taste or burn. Capsules make it easier for beginners to stick to a routine.</p>
+          <div class="tool-cta">
+            <a href="https://amzn.to/3MaVL5U" target="_blank">View Capsules on Amazon</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Mini Funnel -->
+      <section class="tool-card">
+        <div class="tool-image-wrapper">
+          <img src="https://m.media-amazon.com/images/I/71hK78bQRHL._SL1500_.jpg" alt="Mini Funnels">
+        </div>
+        <div class="tool-body">
+          <h2 class="tool-title">Stainless Steel Mini Funnels (6‑Pack)</h2>
+          <div class="tool-meta">1.25" mini funnels • Stainless steel</div>
+          <div class="tool-why-label">Why I use this</div>
+          <p class="tool-why-text">Keeps everything clean and prevents sticky spills when filling capsules or small jars with RSO.</p>
+          <div class="tool-cta">
+            <a href="https://amzn.to/4a2NkCX" target="_blank">View Mini Funnels on Amazon</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Glass Jars -->
+      <section class="tool-card">
+        <div class="tool-image-wrapper">
+          <img src="https://m.media-amazon.com/images/I/61NSPOz5ayL._AC_SL1000_.jpg" alt="Glass Jars">
+        </div>
+        <div class="tool-body">
+          <h2 class="tool-title">1 oz Small Glass Jars (48‑Pack)</h2>
+          <div class="tool-meta">Glass jars • Black lids • Inner liners</div>
+          <div class="tool-why-label">Why I use this</div>
+          <p class="tool-why-text">They warm evenly, don’t melt, and make mixing or thinning RSO simple without fighting plastic.</p>
+          <div class="tool-cta">
+            <a href="https://amzn.to/40Hd6XU" target="_blank">View Glass Jars on Amazon</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Syringes -->
+      <section class="tool-card">
+        <div class="tool-image-wrapper">
+          <img src="https://m.media-amazon.com/images/I/61nmrpPVcGL._SL1200_.jpg" alt="Glass Syringes">
+        </div>
+        <div class="tool-body">
+          <h2 class="tool-title">Kopperko 1ml Luer Lock Syringes (10‑Pack)</h2>
+          <div class="tool-meta">Borosilicate glass • Luer lock • 1 ml</div>
+          <div class="tool-why-label">Why I use this</div>
+          <p class="tool-why-text">Accurate dosing and smooth filling without clogging or leaking, especially when RSO is thick.</p>
+          <div class="tool-cta">
+            <a href="https://amzn.to/4bzAR90" target="_blank">View Syringes on Amazon</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Gloves -->
+      <section class="tool-card">
+        <div class="tool-image-wrapper">
+          <img src="https://m.media-amazon.com/images/I/61YO+aQShHL._AC_SL1000_.jpg" alt="Nitrile Gloves">
+        </div>
+        <div class="tool-body">
+          <h2 class="tool-title">Med Pride Nitrile Exam Gloves (100‑Pack)</h2>
+          <div class="tool-meta">Powder‑free • Iris blue • Medium</div>
+          <div class="tool-why-label">Why I use this</div>
+          <p class="tool-why-text">RSO is sticky — gloves keep the process clean and your hands mess‑free while you work.</p>
+          <div class="tool-cta">
+            <a href="https://amzn.to/4bUllpG" target="_blank">View Gloves on Amazon</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Rubber Mat -->
+      <section class="tool-card">
+        <div class="tool-image-wrapper">
+          <img src="https://m.media-amazon.com/images/I/41-1P7F7wjL._AC_SL1000_.jpg" alt="Rubber Work Mat">
+        </div>
+        <div class="tool-body">
+          <h2 class="tool-title">LGRP Rubber Non‑Slip Work Mat</h2>
+          <div class="tool-meta">Silicone pit mat • Non‑slip • Heat‑resistant</div>
+          <div class="tool-why-label">Why I use this</div>
+          <p class="tool-why-text">Gives me a clean, heat‑safe surface that keeps tools from sliding around while I’m working with RSO.</p>
+          <div class="tool-cta">
+            <a href="https://amzn.to/47blDWE" target="_blank">View Work Mat on Amazon</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- SINGLE CLEAN BACK BUTTON -->
+      <a class="back-button" href="https://rsoeducator.github.io/Beginner-roadmap.html">← Return to Beginner Roadmap</a>
+
+    </div>
+  </main>
+
+  <footer>
+    This page is for educational purposes only and is not medical advice. Always follow local laws and consult a qualified professional for medical decisions.
+  </footer>
+</body>
+</html>
